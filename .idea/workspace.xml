@@ -7,7 +7,6 @@
     <list default="true" id="1dcb016f-4ce1-47ff-a045-41b88ee9eec1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/galeria.html" beforeDir="false" afterPath="$PROJECT_DIR$/galeria.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/praktyki.html" beforeDir="false" afterPath="$PROJECT_DIR$/praktyki.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,8 @@
       <workItem from="1647697554266" duration="9723000" />
       <workItem from="1647711664594" duration="2154000" />
       <workItem from="1647763090447" duration="2395000" />
-      <workItem from="1647789593782" duration="72000" />
+      <workItem from="1647789593782" duration="629000" />
+      <workItem from="1647790335751" duration="23000" />
     </task>
     <servers />
   </component>
