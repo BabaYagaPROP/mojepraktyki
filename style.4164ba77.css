@@ -131,5 +131,14 @@ footer{
     text-align: center;
     height: 15px;
 }
+section a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+}
+section a:visited{
+    text-decoration: none;
+    color: black;
+}
 
-/*# sourceMappingURL=style.11210675.css.map */
+/*# sourceMappingURL=style.4164ba77.css.map */
