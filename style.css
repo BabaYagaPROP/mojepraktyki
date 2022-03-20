@@ -131,3 +131,12 @@ footer{
     text-align: center;
     height: 15px;
 }
+section a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+}
+section a:visited{
+    text-decoration: none;
+    color: black;
+}

@@ -20,6 +20,8 @@
     "push-gh-pages": "push-dir --dir=dist --branch=gh-pages --cleanup --verbose"
   },
   "devDependencies": {
+    "cssnano": "^5.1.4",
+    "postcss": "^8.2.15",
     "shx": "^0.3.2"
   }
 }
