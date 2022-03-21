@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1dcb016f-4ce1-47ff-a045-41b88ee9eec1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.cache/03/10c3455c9f881ebb2a613bbe17f0ee.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/03/10c3455c9f881ebb2a613bbe17f0ee.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/11/a3b7562df310c4163d5971d9f15b82.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/11/a3b7562df310c4163d5971d9f15b82.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/62/df62dfce9adb4095a28d9649bd5784.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/62/df62dfce9adb4095a28d9649bd5784.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/e1/a1389041cbe6295a4d9045bfa809c5.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/e1/a1389041cbe6295a4d9045bfa809c5.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/galeria.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/galeria.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/kontakt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/praktyki.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/praktyki.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/galeria.html" beforeDir="false" afterPath="$PROJECT_DIR$/galeria.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/praktyki.html" beforeDir="false" afterPath="$PROJECT_DIR$/praktyki.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +63,8 @@
       <workItem from="1647763090447" duration="2395000" />
       <workItem from="1647789593782" duration="629000" />
       <workItem from="1647790335751" duration="23000" />
+      <workItem from="1647791023153" duration="253000" />
+      <workItem from="1647893026435" duration="630000" />
     </task>
     <servers />
   </component>
